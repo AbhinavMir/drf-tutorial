@@ -1,5 +1,5 @@
-to run cd into myproject
-and do a python manage.py runserver
+(To run cd into myproject<br>
+and do a python manage.py runserver)
 
 _______
 
